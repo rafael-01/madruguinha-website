@@ -1,0 +1,64 @@
+body{
+	
+}
+
+.titulo-principal{
+	padding-left:20px;
+}
+
+#foto-banner{
+	width:100%;
+}
+
+.principal{
+	background:lightgray;
+	padding:30px;    
+}
+
+.titulo-centralizado{
+	text-align:center;
+}
+p{
+	text-align:center;
+	font-size:21px;
+	font-style:candara;
+}
+
+#paragrafo-grande{
+	font-size:22px;
+}
+
+.guitarras{
+	
+}
+
+
+ul{
+	display:inline-block;
+	vertical-align:top;
+	width:20%;
+	margin-right:20%;
+	padding:20px;
+	margin-left:10%;
+}
+.itens{
+	font-style:candara;
+	font-size:33px;
+	text-decoration:none;
+	
+}
+#foto-madruga{
+	width:40%;
+}
+
+#pedal{
+	width:100%;
+	padding:5px;
+}
+
+#amp{
+	width:100%;
+	padding:5px;
+}
+
+

@@ -1,0 +1,134 @@
+header{
+	background:lightgray;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.caixa1{
+	position:relative;
+	margin: 0 auto;
+	width:940px;
+	padding:20px;
+}
+
+em strong{
+	color:red;
+}
+
+
+nav{
+	
+	position:absolute;
+	top:28px;
+	right:2px;
+}
+
+nav li{
+	display:inline;
+	margin:0 0 0 15px;
+	
+}
+
+
+nav a{
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:22px;
+	font-weight:bold;
+	color:black;
+	
+}
+
+nav a:hover{
+	color:#c78c19;
+	text-decoration:underline;
+}
+
+.logo-madruga{
+	width:100%;
+}
+
+.caixa2{
+	
+}
+
+
+
+.caixa2{
+	text-align:left;
+	margin-left:1px;
+	padding:28px;
+	
+}
+
+.caixa2 h2{
+	text-align:left;
+	margin-left:35px;
+	font-size:29px;
+	font-weight:bold;
+	text-transform:uppercase;
+	font-family:candara;
+	border: 1px solid;
+	width:470px;
+	background:red;
+	box-shadow:rgba(0, 0, 0.25);
+	
+}
+
+
+.foto-legenda{
+	display:inline-block;
+	margin-left:48px;
+	vertical-align:top;
+}
+
+.legenda{
+	display:inline-block;
+	margin-right:49px;
+	margin-right
+	
+}
+
+footer{
+	text-align:center;
+	background:url("bg.jpg");
+	padding:20px 0;
+}
+
+.copyright{
+	color:white;
+	font-size:13px;
+	margin:20px;
+}
+
+.footer-article h3{
+	color:white;
+}
+
+.footer-article li{
+	color:white;
+	text-decoration:none;
+}
+
+.footer-article em strong{
+	color:red;
+	
+}
+
+
+
+.leia-mais a{
+	text-decoration:none;
+	background:#c3202;
+	text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);
+	margin-right:12px;
+
+}
+
+.leia-mais{
+	background:#c3202;
+	text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);
+	margin-right:12px;
+}
+
+

@@ -1,0 +1,78 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.topo{
+	
+	display:inline-block;
+	
+}
+
+.topo ul li{
+	display:inline;
+	text-align:right;
+	background: lightgray;
+	font-size:20px;
+	margin-left:0%;
+}
+
+footer{
+	text-align:center;
+	background:url("bg.jpg");
+	padding:90px 0;
+	margin-top:3px;
+}
+
+
+.footer2 li{
+	color:white;
+	display:inline-block;
+	text-align:center;
+	margin-right:10%;
+	font-size:27px;
+}
+
+h1{
+	
+	text-transform:uppercase;
+	font-style:italic;
+	color:gray;
+	font-size:300%;
+	padding:15px 0px 37px 0px;
+}
+
+ul{
+	position: relative;
+}
+
+ul li a{
+	text-decoration:none;
+	color:lightgray;
+	display:block;
+}
+
+ul li:hover{
+	background:black;
+}
+
+ul ul{
+	position: absolute;
+	min-width:200px;
+	display:none;
+	background:red;
+}
+
+ul ul li{
+	display:inline-block;
+	
+}
+
+ul li:hover ul {
+	display:block;
+}
+
+.foto-fundo{
+	width:100%;
+}
